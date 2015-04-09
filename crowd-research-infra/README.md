@@ -1,7 +1,10 @@
-django-rest-angular-todo
+Alta Mira Infrastructure for Crowd Research
 ========================
 
-Todo REST-API using django rest framework --- combined with angular JS on the front end.
-
-
-LIVE HERE: http://calm-refuge-6071.herokuapp.com/
+Hosting - Heroku
+HttpServer - Nginx w/ load balancing
+Django Server - Guincorn
+Backend - REST API
+Communication - Django MVC / Django-rest
+Frontend Web - AngularJS
+Mobile - Phonegap for Native Android and iOS application in web views
