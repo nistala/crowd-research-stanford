@@ -122,7 +122,7 @@ INSTALLED_APPS = (
     'todo_web',
     'rest_framework',
     # Uncomment the next line to enable the admin:
-    # 'django.contrib.admin',
+    'django.contrib.admin',
     # Uncomment the next line to enable admin documentation:
     # 'django.contrib.admindocs',
 )
